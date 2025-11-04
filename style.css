@@ -1,0 +1,10 @@
+ body{ background-color: black;
+}
+
+ #clockBlock{
+    font-weight: 800;
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+ }
